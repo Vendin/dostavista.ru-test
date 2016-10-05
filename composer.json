@@ -1,0 +1,16 @@
+{
+    "name": "av/weather",
+    "description": "weather",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vendin",
+            "email": "venzin@list.ru"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "cmfcmf/openweathermap-php-api": "~2.0"
+    }
+}
